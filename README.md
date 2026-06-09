@@ -1,8 +1,6 @@
 # RQ1：人格特質對藥物使用的預測力 (Statistical Machine Learning Pipeline)
 
-本專案將原 Colab notebook `ml_sci_process_rq1.ipynb` 拆解為符合
-*separation of concerns* 原則的多檔模組化架構。所有設計皆以統計推論
-(Statistical Inference) 為導向，而非單純預測準確率最大化。
+團隊：劉韋廷、黃旭寬
 
 ---
 
